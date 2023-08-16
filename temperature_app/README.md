@@ -1,0 +1,1 @@
+The Weather App allows users to enter a city name in the input field and then click the "Search" button. Upon clicking the button, the app fetches weather data for the entered city from the OpenWeatherMap API and displays it on the page. The displayed weather information includes the city's name, current temperature in Celsius, and a description of the weather conditions.
